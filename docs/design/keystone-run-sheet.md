@@ -172,7 +172,7 @@ Fill one row per keystone/check. Map PASS/FAIL to the PRD gate ("what proceeds /
 | K5 | FM narrator | DEFERRED | — | template narrator only this wave |
 | K6 | Mic ↔ camera + prosody | | calm vs excited separate? laugh fires? | FAIL ⇒ cut voice |
 | F7 | Frustration (task friction) | | surfaced on correction-storm? | zero-permission windowed flagship |
-| F1 | Composure under load | | ring widens? "composed but activated"? | crown jewel — needs K2 |
+| F1 | Composure under load | | ring widens? "composed but activated"? | needs K2 |
 | F3 | Fatigue ⇄ Engagement | | fatigued pole latches? | one coupled meter |
 | F4 | Frown + head-down ladder | | correcting rung + no anger flip? | needs K3 |
 | F6 | Corroborated positivity | | "echoed across channels" on a laugh? | needs K6 |
