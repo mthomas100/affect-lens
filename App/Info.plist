@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>AffectLens</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationPreferredDefaultSceneSessionRole</key>
+		<string>UIWindowSceneSessionRoleApplication</string>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<true/>
+		<key>UISceneConfigurations</key>
+		<dict/>
+	</dict>
+	<!-- Face channel: the front (Persona) camera, analyzed on-device. Frames are never stored. -->
+	<key>NSCameraUsageDescription</key>
+	<string>The camera feed is analyzed on-device to estimate facial expression. Frames are never stored or sent anywhere.</string>
+	<!-- Voice channel (US-D12). Microphone only — deliberately NO NSSpeechRecognitionUsageDescription:
+	     the voice VAD is energy/periodicity-based (DIY vDSP/YIN in ProsodyMath), so no SFSpeechRecognizer
+	     is ever created. That means one fewer permission and, crucially, NO transcription surface — the
+	     app cannot recognize words even in principle. On-device prosody → arousal only. -->
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Voice is analyzed on-device for arousal only — pitch, loudness, tempo. Audio never leaves the device; no words are recognized.</string>
+	<!-- Hands channel (US-D13a). Hand tracking runs ONLY while the immersive aura space is open,
+	     entirely on-device. It reads hand-motion energy and self-touch rate as arousal / engagement
+	     estimates. There is NO gesture recognition and NO gesture dictionary — no pose is ever named.
+	     Deliberately NO NSWorldSensingUsageDescription: the head-position (device anchor) used for the
+	     self-touch distance is prompt-free once the ARKit session runs, and no plane / scene / light
+	     sensing ships. -->
+	<key>NSHandsTrackingUsageDescription</key>
+	<string>Hand tracking runs on-device in the immersive space to read hand-motion energy and self-touch rate as arousal / engagement signals. No gesture recognition, no gesture dictionary; the data never leaves your device.</string>
+	<!-- HealthKit ground-truth loop (US-E17). The optional 1-tap mood report is written to Health as an
+	     HKStateOfMind (State of Mind) sample IF Health is available and you allow it — your data, your export
+	     path. Used on-device to calibrate this app's estimates against how you actually feel. WRITE-only:
+	     only the Update (write) key is declared, there is no Share (read) key. Availability/permission
+	     failures fall back to a local-only log — Health never blocks the app. -->
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Your 1-tap mood reports are saved to Health as State of Mind samples — your data, your export path. Used on-device to calibrate this app's estimates against how you actually feel.</string>
+</dict>
+</plist>

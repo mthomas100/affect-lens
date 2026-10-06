@@ -1,0 +1,9 @@
+# gitleaks: the default rules, minus two false positives. UserDefaults setting names such as
+# "au4.pitchCorrection.slope" and "fusion.f1-composure.enabled" sit next to the word "key"
+# and trip the generic-api-key rule. They are settings names, not secrets.
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "UserDefaults setting names, not secrets"
+regexes = ['''fusion\.f[0-9]+-[a-z-]+\.enabled''', '''au4\.pitchCorrection\.(slope|deadband)''']

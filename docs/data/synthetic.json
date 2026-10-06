@@ -1,0 +1,3522 @@
+{
+  "hysteresis" : [
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0035999999999999999,
+        "contempt" : 0.0035999999999999999,
+        "disgust" : 0.0035999999999999999,
+        "fear" : 0.0035999999999999999,
+        "happiness" : 0.0035999999999999999,
+        "neutral" : 0.97470000000000001,
+        "sadness" : 0.0035999999999999999,
+        "surprise" : 0.0035999999999999999
+      },
+      "stableDominant" : "neutral",
+      "t" : 0,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0060000000000000001,
+        "contempt" : 0.0060000000000000001,
+        "disgust" : 0.0060000000000000001,
+        "fear" : 0.0060000000000000001,
+        "happiness" : 0.0060000000000000001,
+        "neutral" : 0.95830000000000004,
+        "sadness" : 0.0060000000000000001,
+        "surprise" : 0.0060000000000000001
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.066699999999999995,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0074999999999999997,
+        "contempt" : 0.0074999999999999997,
+        "disgust" : 0.0074999999999999997,
+        "fear" : 0.0074999999999999997,
+        "happiness" : 0.0074999999999999997,
+        "neutral" : 0.94769999999999999,
+        "sadness" : 0.0074999999999999997,
+        "surprise" : 0.0074999999999999997
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.1333,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0085000000000000006,
+        "contempt" : 0.0085000000000000006,
+        "disgust" : 0.0085000000000000006,
+        "fear" : 0.0085000000000000006,
+        "happiness" : 0.0085000000000000006,
+        "neutral" : 0.94069999999999998,
+        "sadness" : 0.0085000000000000006,
+        "surprise" : 0.0085000000000000006
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.20000000000000001,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0091000000000000004,
+        "contempt" : 0.0091000000000000004,
+        "disgust" : 0.0091000000000000004,
+        "fear" : 0.0091000000000000004,
+        "happiness" : 0.0091000000000000004,
+        "neutral" : 0.93620000000000003,
+        "sadness" : 0.0091000000000000004,
+        "surprise" : 0.0091000000000000004
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.26669999999999999,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0094999999999999998,
+        "contempt" : 0.0094999999999999998,
+        "disgust" : 0.0094999999999999998,
+        "fear" : 0.0094999999999999998,
+        "happiness" : 0.0094999999999999998,
+        "neutral" : 0.93330000000000002,
+        "sadness" : 0.0094999999999999998,
+        "surprise" : 0.0094999999999999998
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.33329999999999999,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0097999999999999997,
+        "contempt" : 0.0097999999999999997,
+        "disgust" : 0.0097999999999999997,
+        "fear" : 0.0097999999999999997,
+        "happiness" : 0.0097999999999999997,
+        "neutral" : 0.93140000000000001,
+        "sadness" : 0.0097999999999999997,
+        "surprise" : 0.0097999999999999997
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.40000000000000002,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.01,
+        "contempt" : 0.01,
+        "disgust" : 0.01,
+        "fear" : 0.01,
+        "happiness" : 0.01,
+        "neutral" : 0.93010000000000004,
+        "sadness" : 0.01,
+        "surprise" : 0.01
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.4667,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0101,
+        "contempt" : 0.0101,
+        "disgust" : 0.0101,
+        "fear" : 0.0101,
+        "happiness" : 0.0101,
+        "neutral" : 0.92930000000000001,
+        "sadness" : 0.0101,
+        "surprise" : 0.0101
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.5333,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.010200000000000001,
+        "contempt" : 0.010200000000000001,
+        "disgust" : 0.010200000000000001,
+        "fear" : 0.010200000000000001,
+        "happiness" : 0.010200000000000001,
+        "neutral" : 0.92879999999999996,
+        "sadness" : 0.010200000000000001,
+        "surprise" : 0.010200000000000001
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.59999999999999998,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.010200000000000001,
+        "contempt" : 0.010200000000000001,
+        "disgust" : 0.010200000000000001,
+        "fear" : 0.010200000000000001,
+        "happiness" : 0.010200000000000001,
+        "neutral" : 0.92849999999999999,
+        "sadness" : 0.010200000000000001,
+        "surprise" : 0.010200000000000001
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.66669999999999996,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.010200000000000001,
+        "contempt" : 0.010200000000000001,
+        "disgust" : 0.010200000000000001,
+        "fear" : 0.010200000000000001,
+        "happiness" : 0.010200000000000001,
+        "neutral" : 0.92830000000000001,
+        "sadness" : 0.010200000000000001,
+        "surprise" : 0.010200000000000001
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.73329999999999995,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92810000000000004,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.80000000000000004,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92800000000000005,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.86670000000000003,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92800000000000005,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 0.93330000000000002,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92789999999999995,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92789999999999995,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.0667,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92789999999999995,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.1333,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92789999999999995,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.2,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92789999999999995,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.2666999999999999,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92789999999999995,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.3332999999999999,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92789999999999995,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.3999999999999999,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92789999999999995,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.4666999999999999,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92789999999999995,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.5333000000000001,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.6000000000000001,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.6667000000000001,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.7333000000000001,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.8,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.8667,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "rawDominant" : "neutral",
+      "smoothed" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "stableDominant" : "neutral",
+      "t" : 1.9333,
+      "truth" : "neutral"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0298,
+        "contempt" : 0.0298,
+        "disgust" : 0.0298,
+        "fear" : 0.0298,
+        "happiness" : 0.76570000000000005,
+        "neutral" : 0.055500000000000001,
+        "sadness" : 0.0298,
+        "surprise" : 0.0298
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.017100000000000001,
+        "contempt" : 0.017100000000000001,
+        "disgust" : 0.017100000000000001,
+        "fear" : 0.017100000000000001,
+        "happiness" : 0.2747,
+        "neutral" : 0.62250000000000005,
+        "sadness" : 0.017100000000000001,
+        "surprise" : 0.017100000000000001
+      },
+      "stableDominant" : "neutral",
+      "t" : 2,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.032500000000000001,
+        "contempt" : 0.032500000000000001,
+        "disgust" : 0.032500000000000001,
+        "fear" : 0.032500000000000001,
+        "happiness" : 0.77229999999999999,
+        "neutral" : 0.032500000000000001,
+        "sadness" : 0.032500000000000001,
+        "surprise" : 0.032500000000000001
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.022499999999999999,
+        "contempt" : 0.022499999999999999,
+        "disgust" : 0.022499999999999999,
+        "fear" : 0.022499999999999999,
+        "happiness" : 0.44890000000000002,
+        "neutral" : 0.41599999999999998,
+        "sadness" : 0.022499999999999999,
+        "surprise" : 0.022499999999999999
+      },
+      "stableDominant" : "neutral",
+      "t" : 2.0667,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.022499999999999999,
+        "contempt" : 0.022499999999999999,
+        "disgust" : 0.022499999999999999,
+        "fear" : 0.022499999999999999,
+        "happiness" : 0.83760000000000001,
+        "neutral" : 0.0275,
+        "sadness" : 0.022499999999999999,
+        "surprise" : 0.022499999999999999
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.022499999999999999,
+        "contempt" : 0.022499999999999999,
+        "disgust" : 0.022499999999999999,
+        "fear" : 0.022499999999999999,
+        "happiness" : 0.58489999999999998,
+        "neutral" : 0.28000000000000003,
+        "sadness" : 0.022499999999999999,
+        "surprise" : 0.022499999999999999
+      },
+      "stableDominant" : "neutral",
+      "t" : 2.1333000000000002,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.037100000000000001,
+        "contempt" : 0.037100000000000001,
+        "disgust" : 0.037100000000000001,
+        "fear" : 0.037100000000000001,
+        "happiness" : 0.67049999999999998,
+        "neutral" : 0.1066,
+        "sadness" : 0.037100000000000001,
+        "surprise" : 0.037100000000000001
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.0276,
+        "contempt" : 0.0276,
+        "disgust" : 0.0276,
+        "fear" : 0.0276,
+        "happiness" : 0.6149,
+        "neutral" : 0.21929999999999999,
+        "sadness" : 0.0276,
+        "surprise" : 0.0276
+      },
+      "stableDominant" : "neutral",
+      "t" : 2.2000000000000002,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.038800000000000001,
+        "contempt" : 0.038800000000000001,
+        "disgust" : 0.038800000000000001,
+        "fear" : 0.038800000000000001,
+        "happiness" : 0.64100000000000001,
+        "neutral" : 0.12609999999999999,
+        "sadness" : 0.038800000000000001,
+        "surprise" : 0.038800000000000001
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.0315,
+        "contempt" : 0.0315,
+        "disgust" : 0.0315,
+        "fear" : 0.0315,
+        "happiness" : 0.624,
+        "neutral" : 0.1867,
+        "sadness" : 0.0315,
+        "surprise" : 0.0315
+      },
+      "stableDominant" : "happiness",
+      "t" : 2.2667000000000002,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.023699999999999999,
+        "contempt" : 0.023699999999999999,
+        "disgust" : 0.023699999999999999,
+        "fear" : 0.023699999999999999,
+        "happiness" : 0.83379999999999999,
+        "neutral" : 0.023699999999999999,
+        "sadness" : 0.023699999999999999,
+        "surprise" : 0.023699999999999999
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.028799999999999999,
+        "contempt" : 0.028799999999999999,
+        "disgust" : 0.028799999999999999,
+        "fear" : 0.028799999999999999,
+        "happiness" : 0.69750000000000001,
+        "neutral" : 0.12970000000000001,
+        "sadness" : 0.028799999999999999,
+        "surprise" : 0.028799999999999999
+      },
+      "stableDominant" : "happiness",
+      "t" : 2.3332999999999999,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.034099999999999998,
+        "contempt" : 0.034099999999999998,
+        "disgust" : 0.034099999999999998,
+        "fear" : 0.034099999999999998,
+        "happiness" : 0.73619999999999997,
+        "neutral" : 0.059200000000000003,
+        "sadness" : 0.034099999999999998,
+        "surprise" : 0.034099999999999998
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.030700000000000002,
+        "contempt" : 0.030700000000000002,
+        "disgust" : 0.030700000000000002,
+        "fear" : 0.030700000000000002,
+        "happiness" : 0.71099999999999997,
+        "neutral" : 0.105,
+        "sadness" : 0.030700000000000002,
+        "surprise" : 0.030700000000000002
+      },
+      "stableDominant" : "happiness",
+      "t" : 2.3999999999999999,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033599999999999998,
+        "contempt" : 0.033599999999999998,
+        "disgust" : 0.033599999999999998,
+        "fear" : 0.14499999999999999,
+        "happiness" : 0.033599999999999998,
+        "neutral" : 0.046800000000000001,
+        "sadness" : 0.033599999999999998,
+        "surprise" : 0.64019999999999999
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.031699999999999999,
+        "contempt" : 0.031699999999999999,
+        "disgust" : 0.031699999999999999,
+        "fear" : 0.070699999999999999,
+        "happiness" : 0.47389999999999999,
+        "neutral" : 0.084599999999999995,
+        "sadness" : 0.031699999999999999,
+        "surprise" : 0.24399999999999999
+      },
+      "stableDominant" : "happiness",
+      "t" : 2.4666999999999999,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033599999999999998,
+        "contempt" : 0.033599999999999998,
+        "disgust" : 0.033599999999999998,
+        "fear" : 0.14499999999999999,
+        "happiness" : 0.033599999999999998,
+        "neutral" : 0.046800000000000001,
+        "sadness" : 0.033599999999999998,
+        "surprise" : 0.64019999999999999
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.032399999999999998,
+        "contempt" : 0.032399999999999998,
+        "disgust" : 0.032399999999999998,
+        "fear" : 0.096699999999999994,
+        "happiness" : 0.31979999999999997,
+        "neutral" : 0.071400000000000005,
+        "sadness" : 0.032399999999999998,
+        "surprise" : 0.38269999999999998
+      },
+      "stableDominant" : "happiness",
+      "t" : 2.5333000000000001,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.037499999999999999,
+        "contempt" : 0.037499999999999999,
+        "disgust" : 0.037499999999999999,
+        "fear" : 0.037499999999999999,
+        "happiness" : 0.73080000000000001,
+        "neutral" : 0.0441,
+        "sadness" : 0.037499999999999999,
+        "surprise" : 0.037499999999999999
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.034200000000000001,
+        "contempt" : 0.034200000000000001,
+        "disgust" : 0.034200000000000001,
+        "fear" : 0.075999999999999998,
+        "happiness" : 0.46360000000000001,
+        "neutral" : 0.061899999999999997,
+        "sadness" : 0.034200000000000001,
+        "surprise" : 0.26190000000000002
+      },
+      "stableDominant" : "happiness",
+      "t" : 2.6000000000000001,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0361,
+        "contempt" : 0.0361,
+        "disgust" : 0.0361,
+        "fear" : 0.0361,
+        "happiness" : 0.72940000000000005,
+        "neutral" : 0.053900000000000003,
+        "sadness" : 0.0361,
+        "surprise" : 0.0361
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.034799999999999998,
+        "contempt" : 0.034799999999999998,
+        "disgust" : 0.034799999999999998,
+        "fear" : 0.062,
+        "happiness" : 0.55669999999999997,
+        "neutral" : 0.0591,
+        "sadness" : 0.034799999999999998,
+        "surprise" : 0.18290000000000001
+      },
+      "stableDominant" : "happiness",
+      "t" : 2.6667000000000001,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.050999999999999997,
+        "contempt" : 0.050999999999999997,
+        "disgust" : 0.050999999999999997,
+        "fear" : 0.050999999999999997,
+        "happiness" : 0.52459999999999996,
+        "neutral" : 0.1696,
+        "sadness" : 0.050999999999999997,
+        "surprise" : 0.050999999999999997
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.040500000000000001,
+        "contempt" : 0.040500000000000001,
+        "disgust" : 0.040500000000000001,
+        "fear" : 0.058200000000000002,
+        "happiness" : 0.5454,
+        "neutral" : 0.097699999999999995,
+        "sadness" : 0.040500000000000001,
+        "surprise" : 0.13669999999999999
+      },
+      "stableDominant" : "happiness",
+      "t" : 2.7332999999999998,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.041300000000000003,
+        "contempt" : 0.041300000000000003,
+        "disgust" : 0.041300000000000003,
+        "fear" : 0.041300000000000003,
+        "happiness" : 0.67400000000000004,
+        "neutral" : 0.078100000000000003,
+        "sadness" : 0.041300000000000003,
+        "surprise" : 0.041300000000000003
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.040800000000000003,
+        "contempt" : 0.040800000000000003,
+        "disgust" : 0.040800000000000003,
+        "fear" : 0.052299999999999999,
+        "happiness" : 0.59040000000000004,
+        "neutral" : 0.090899999999999995,
+        "sadness" : 0.040800000000000003,
+        "surprise" : 0.1033
+      },
+      "stableDominant" : "happiness",
+      "t" : 2.7999999999999998,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.025899999999999999,
+        "contempt" : 0.025899999999999999,
+        "disgust" : 0.025899999999999999,
+        "fear" : 0.025899999999999999,
+        "happiness" : 0.81869999999999998,
+        "neutral" : 0.025899999999999999,
+        "sadness" : 0.025899999999999999,
+        "surprise" : 0.025899999999999999
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.0356,
+        "contempt" : 0.0356,
+        "disgust" : 0.0356,
+        "fear" : 0.042999999999999997,
+        "happiness" : 0.67030000000000001,
+        "neutral" : 0.068099999999999994,
+        "sadness" : 0.0356,
+        "surprise" : 0.076200000000000004
+      },
+      "stableDominant" : "happiness",
+      "t" : 2.8666999999999998,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.034500000000000003,
+        "contempt" : 0.034500000000000003,
+        "disgust" : 0.034500000000000003,
+        "fear" : 0.034500000000000003,
+        "happiness" : 0.69259999999999999,
+        "neutral" : 0.10050000000000001,
+        "sadness" : 0.034500000000000003,
+        "surprise" : 0.034500000000000003
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.035200000000000002,
+        "contempt" : 0.035200000000000002,
+        "disgust" : 0.035200000000000002,
+        "fear" : 0.040000000000000001,
+        "happiness" : 0.67810000000000004,
+        "neutral" : 0.079500000000000001,
+        "sadness" : 0.035200000000000002,
+        "surprise" : 0.061600000000000002
+      },
+      "stableDominant" : "happiness",
+      "t" : 2.9333,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0424,
+        "contempt" : 0.0424,
+        "disgust" : 0.0424,
+        "fear" : 0.0424,
+        "happiness" : 0.59730000000000005,
+        "neutral" : 0.14799999999999999,
+        "sadness" : 0.0424,
+        "surprise" : 0.0424
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.037699999999999997,
+        "contempt" : 0.037699999999999997,
+        "disgust" : 0.037699999999999997,
+        "fear" : 0.040899999999999999,
+        "happiness" : 0.64980000000000004,
+        "neutral" : 0.10340000000000001,
+        "sadness" : 0.037699999999999997,
+        "surprise" : 0.054899999999999997
+      },
+      "stableDominant" : "happiness",
+      "t" : 3,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033599999999999998,
+        "contempt" : 0.033599999999999998,
+        "disgust" : 0.033599999999999998,
+        "fear" : 0.14499999999999999,
+        "happiness" : 0.033599999999999998,
+        "neutral" : 0.046800000000000001,
+        "sadness" : 0.033599999999999998,
+        "surprise" : 0.64019999999999999
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.036299999999999999,
+        "contempt" : 0.036299999999999999,
+        "disgust" : 0.036299999999999999,
+        "fear" : 0.077299999999999994,
+        "happiness" : 0.43419999999999997,
+        "neutral" : 0.083599999999999994,
+        "sadness" : 0.036299999999999999,
+        "surprise" : 0.25979999999999998
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.0667,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.032500000000000001,
+        "contempt" : 0.032500000000000001,
+        "disgust" : 0.032500000000000001,
+        "fear" : 0.032500000000000001,
+        "happiness" : 0.77239999999999998,
+        "neutral" : 0.032500000000000001,
+        "sadness" : 0.032500000000000001,
+        "surprise" : 0.032500000000000001
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.035000000000000003,
+        "contempt" : 0.035000000000000003,
+        "disgust" : 0.035000000000000003,
+        "fear" : 0.061600000000000002,
+        "happiness" : 0.55249999999999999,
+        "neutral" : 0.065699999999999995,
+        "sadness" : 0.035000000000000003,
+        "surprise" : 0.1802
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.1333000000000002,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.022700000000000001,
+        "contempt" : 0.022700000000000001,
+        "disgust" : 0.022700000000000001,
+        "fear" : 0.022700000000000001,
+        "happiness" : 0.84119999999999995,
+        "neutral" : 0.022700000000000001,
+        "sadness" : 0.022700000000000001,
+        "surprise" : 0.022700000000000001
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.030700000000000002,
+        "contempt" : 0.030700000000000002,
+        "disgust" : 0.030700000000000002,
+        "fear" : 0.048000000000000001,
+        "happiness" : 0.65359999999999996,
+        "neutral" : 0.050700000000000002,
+        "sadness" : 0.030700000000000002,
+        "surprise" : 0.12509999999999999
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.2000000000000002,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.025700000000000001,
+        "contempt" : 0.025700000000000001,
+        "disgust" : 0.025700000000000001,
+        "fear" : 0.025700000000000001,
+        "happiness" : 0.81830000000000003,
+        "neutral" : 0.027699999999999999,
+        "sadness" : 0.025700000000000001,
+        "surprise" : 0.025700000000000001
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.028899999999999999,
+        "contempt" : 0.028899999999999999,
+        "disgust" : 0.028899999999999999,
+        "fear" : 0.0402,
+        "happiness" : 0.71120000000000005,
+        "neutral" : 0.042599999999999999,
+        "sadness" : 0.028899999999999999,
+        "surprise" : 0.090300000000000005
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.2667000000000002,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.037199999999999997,
+        "contempt" : 0.037199999999999997,
+        "disgust" : 0.037199999999999997,
+        "fear" : 0.037199999999999997,
+        "happiness" : 0.67669999999999997,
+        "neutral" : 0.10000000000000001,
+        "sadness" : 0.037199999999999997,
+        "surprise" : 0.037199999999999997
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.031800000000000002,
+        "contempt" : 0.031800000000000002,
+        "disgust" : 0.031800000000000002,
+        "fear" : 0.039100000000000003,
+        "happiness" : 0.69910000000000005,
+        "neutral" : 0.062700000000000006,
+        "sadness" : 0.031800000000000002,
+        "surprise" : 0.0717
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.3332999999999999,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0356,
+        "contempt" : 0.0356,
+        "disgust" : 0.0356,
+        "fear" : 0.0356,
+        "happiness" : 0.73429999999999995,
+        "neutral" : 0.052200000000000003,
+        "sadness" : 0.0356,
+        "surprise" : 0.0356
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.033099999999999997,
+        "contempt" : 0.033099999999999997,
+        "disgust" : 0.033099999999999997,
+        "fear" : 0.037900000000000003,
+        "happiness" : 0.71150000000000002,
+        "neutral" : 0.058999999999999997,
+        "sadness" : 0.033099999999999997,
+        "surprise" : 0.0591
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.3999999999999999,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0373,
+        "contempt" : 0.0373,
+        "disgust" : 0.0373,
+        "fear" : 0.0373,
+        "happiness" : 0.69110000000000005,
+        "neutral" : 0.0848,
+        "sadness" : 0.0373,
+        "surprise" : 0.0373
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.034599999999999999,
+        "contempt" : 0.034599999999999999,
+        "disgust" : 0.034599999999999999,
+        "fear" : 0.037699999999999997,
+        "happiness" : 0.70430000000000004,
+        "neutral" : 0.068099999999999994,
+        "sadness" : 0.034599999999999999,
+        "surprise" : 0.051499999999999997
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.4666999999999999,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.035200000000000002,
+        "contempt" : 0.035200000000000002,
+        "disgust" : 0.035200000000000002,
+        "fear" : 0.035200000000000002,
+        "happiness" : 0.73340000000000005,
+        "neutral" : 0.055500000000000001,
+        "sadness" : 0.035200000000000002,
+        "surprise" : 0.035200000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.034799999999999998,
+        "contempt" : 0.034799999999999998,
+        "disgust" : 0.034799999999999998,
+        "fear" : 0.036799999999999999,
+        "happiness" : 0.71450000000000002,
+        "neutral" : 0.063700000000000007,
+        "sadness" : 0.034799999999999998,
+        "surprise" : 0.0458
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.5333000000000001,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0458,
+        "contempt" : 0.0458,
+        "disgust" : 0.0458,
+        "fear" : 0.0458,
+        "happiness" : 0.58520000000000005,
+        "neutral" : 0.14030000000000001,
+        "sadness" : 0.0458,
+        "surprise" : 0.0458
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.038600000000000002,
+        "contempt" : 0.038600000000000002,
+        "disgust" : 0.038600000000000002,
+        "fear" : 0.040000000000000001,
+        "happiness" : 0.66920000000000002,
+        "neutral" : 0.090499999999999997,
+        "sadness" : 0.038600000000000002,
+        "surprise" : 0.0458
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.6000000000000001,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.031699999999999999,
+        "contempt" : 0.031699999999999999,
+        "disgust" : 0.031699999999999999,
+        "fear" : 0.031699999999999999,
+        "happiness" : 0.73250000000000004,
+        "neutral" : 0.077100000000000002,
+        "sadness" : 0.031699999999999999,
+        "surprise" : 0.031699999999999999
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.036200000000000003,
+        "contempt" : 0.036200000000000003,
+        "disgust" : 0.036200000000000003,
+        "fear" : 0.037100000000000001,
+        "happiness" : 0.69140000000000001,
+        "neutral" : 0.085800000000000001,
+        "sadness" : 0.036200000000000003,
+        "surprise" : 0.040899999999999999
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.6667000000000001,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.036700000000000003,
+        "contempt" : 0.036700000000000003,
+        "disgust" : 0.036700000000000003,
+        "fear" : 0.036700000000000003,
+        "happiness" : 0.70520000000000005,
+        "neutral" : 0.0746,
+        "sadness" : 0.036700000000000003,
+        "surprise" : 0.036700000000000003
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.036400000000000002,
+        "contempt" : 0.036400000000000002,
+        "disgust" : 0.036400000000000002,
+        "fear" : 0.036900000000000002,
+        "happiness" : 0.69620000000000004,
+        "neutral" : 0.081900000000000001,
+        "sadness" : 0.036400000000000002,
+        "surprise" : 0.039399999999999998
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.7332999999999998,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033599999999999998,
+        "contempt" : 0.033599999999999998,
+        "disgust" : 0.033599999999999998,
+        "fear" : 0.14499999999999999,
+        "happiness" : 0.033599999999999998,
+        "neutral" : 0.046800000000000001,
+        "sadness" : 0.033599999999999998,
+        "surprise" : 0.64019999999999999
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.035400000000000001,
+        "contempt" : 0.035400000000000001,
+        "disgust" : 0.035400000000000001,
+        "fear" : 0.074800000000000005,
+        "happiness" : 0.46429999999999999,
+        "neutral" : 0.069599999999999995,
+        "sadness" : 0.035400000000000001,
+        "surprise" : 0.24970000000000001
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.7999999999999998,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.039600000000000003,
+        "contempt" : 0.039600000000000003,
+        "disgust" : 0.039600000000000003,
+        "fear" : 0.039600000000000003,
+        "happiness" : 0.64229999999999998,
+        "neutral" : 0.12,
+        "sadness" : 0.039600000000000003,
+        "surprise" : 0.039600000000000003
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.036900000000000002,
+        "contempt" : 0.036900000000000002,
+        "disgust" : 0.036900000000000002,
+        "fear" : 0.0625,
+        "happiness" : 0.52659999999999996,
+        "neutral" : 0.0872,
+        "sadness" : 0.036900000000000002,
+        "surprise" : 0.1762
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.8666999999999998,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.029499999999999998,
+        "contempt" : 0.029499999999999998,
+        "disgust" : 0.029499999999999998,
+        "fear" : 0.029499999999999998,
+        "happiness" : 0.79339999999999999,
+        "neutral" : 0.029499999999999998,
+        "sadness" : 0.029499999999999998,
+        "surprise" : 0.029499999999999998
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.034299999999999997,
+        "contempt" : 0.034299999999999997,
+        "disgust" : 0.034299999999999997,
+        "fear" : 0.050900000000000001,
+        "happiness" : 0.62,
+        "neutral" : 0.067000000000000004,
+        "sadness" : 0.034299999999999997,
+        "surprise" : 0.12479999999999999
+      },
+      "stableDominant" : "happiness",
+      "t" : 3.9333,
+      "truth" : "happiness"
+    },
+    {
+      "raw" : {
+        "anger" : 0.039600000000000003,
+        "contempt" : 0.039600000000000003,
+        "disgust" : 0.039600000000000003,
+        "fear" : 0.15640000000000001,
+        "happiness" : 0.039600000000000003,
+        "neutral" : 0.043799999999999999,
+        "sadness" : 0.039600000000000003,
+        "surprise" : 0.60170000000000001
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.036200000000000003,
+        "contempt" : 0.036200000000000003,
+        "disgust" : 0.036200000000000003,
+        "fear" : 0.087900000000000006,
+        "happiness" : 0.41689999999999999,
+        "neutral" : 0.058900000000000001,
+        "sadness" : 0.036200000000000003,
+        "surprise" : 0.29170000000000001
+      },
+      "stableDominant" : "happiness",
+      "t" : 4,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.032899999999999999,
+        "contempt" : 0.032899999999999999,
+        "disgust" : 0.032899999999999999,
+        "fear" : 0.1459,
+        "happiness" : 0.032899999999999999,
+        "neutral" : 0.043999999999999997,
+        "sadness" : 0.032899999999999999,
+        "surprise" : 0.64570000000000005
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.035000000000000003,
+        "contempt" : 0.035000000000000003,
+        "disgust" : 0.035000000000000003,
+        "fear" : 0.1082,
+        "happiness" : 0.28249999999999997,
+        "neutral" : 0.053699999999999998,
+        "sadness" : 0.035000000000000003,
+        "surprise" : 0.41560000000000002
+      },
+      "stableDominant" : "happiness",
+      "t" : 4.0667,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.047300000000000002,
+        "contempt" : 0.047300000000000002,
+        "disgust" : 0.047300000000000002,
+        "fear" : 0.16769999999999999,
+        "happiness" : 0.047300000000000002,
+        "neutral" : 0.1273,
+        "sadness" : 0.047300000000000002,
+        "surprise" : 0.46820000000000001
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.039300000000000002,
+        "contempt" : 0.039300000000000002,
+        "disgust" : 0.039300000000000002,
+        "fear" : 0.129,
+        "happiness" : 0.20019999999999999,
+        "neutral" : 0.079500000000000001,
+        "sadness" : 0.039300000000000002,
+        "surprise" : 0.434
+      },
+      "stableDominant" : "happiness",
+      "t" : 4.1333000000000002,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.048800000000000003,
+        "contempt" : 0.048800000000000003,
+        "disgust" : 0.048800000000000003,
+        "fear" : 0.14349999999999999,
+        "happiness" : 0.048800000000000003,
+        "neutral" : 0.072400000000000006,
+        "sadness" : 0.048800000000000003,
+        "surprise" : 0.54010000000000002
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.042599999999999999,
+        "contempt" : 0.042599999999999999,
+        "disgust" : 0.042599999999999999,
+        "fear" : 0.1341,
+        "happiness" : 0.1472,
+        "neutral" : 0.076999999999999999,
+        "sadness" : 0.042599999999999999,
+        "surprise" : 0.47120000000000001
+      },
+      "stableDominant" : "surprise",
+      "t" : 4.2000000000000002,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.039300000000000002,
+        "contempt" : 0.039300000000000002,
+        "disgust" : 0.039300000000000002,
+        "fear" : 0.098699999999999996,
+        "happiness" : 0.35949999999999999,
+        "neutral" : 0.066900000000000001,
+        "sadness" : 0.039300000000000002,
+        "surprise" : 0.31780000000000003
+      },
+      "stableDominant" : "surprise",
+      "t" : 4.2667000000000002,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.037100000000000001,
+        "contempt" : 0.037100000000000001,
+        "disgust" : 0.037100000000000001,
+        "fear" : 0.075700000000000003,
+        "happiness" : 0.49740000000000001,
+        "neutral" : 0.060299999999999999,
+        "sadness" : 0.037100000000000001,
+        "surprise" : 0.21809999999999999
+      },
+      "stableDominant" : "surprise",
+      "t" : 4.3333000000000004,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.035700000000000003,
+        "contempt" : 0.035700000000000003,
+        "disgust" : 0.035700000000000003,
+        "fear" : 0.0608,
+        "happiness" : 0.58709999999999996,
+        "neutral" : 0.056099999999999997,
+        "sadness" : 0.035700000000000003,
+        "surprise" : 0.15340000000000001
+      },
+      "stableDominant" : "surprise",
+      "t" : 4.4000000000000004,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.034700000000000002,
+        "contempt" : 0.034700000000000002,
+        "disgust" : 0.034700000000000002,
+        "fear" : 0.0511,
+        "happiness" : 0.64539999999999997,
+        "neutral" : 0.0533,
+        "sadness" : 0.034700000000000002,
+        "surprise" : 0.11119999999999999
+      },
+      "stableDominant" : "happiness",
+      "t" : 4.4667000000000003,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0304,
+        "contempt" : 0.0304,
+        "disgust" : 0.0304,
+        "fear" : 0.124,
+        "happiness" : 0.0304,
+        "neutral" : 0.0304,
+        "sadness" : 0.0304,
+        "surprise" : 0.69359999999999999
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.0332,
+        "contempt" : 0.0332,
+        "disgust" : 0.0332,
+        "fear" : 0.076600000000000001,
+        "happiness" : 0.43020000000000003,
+        "neutral" : 0.0453,
+        "sadness" : 0.0332,
+        "surprise" : 0.31509999999999999
+      },
+      "stableDominant" : "happiness",
+      "t" : 4.5332999999999997,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0327,
+        "contempt" : 0.0327,
+        "disgust" : 0.0327,
+        "fear" : 0.14230000000000001,
+        "happiness" : 0.0327,
+        "neutral" : 0.035299999999999998,
+        "sadness" : 0.0327,
+        "surprise" : 0.65869999999999995
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.033099999999999997,
+        "contempt" : 0.033099999999999997,
+        "disgust" : 0.033099999999999997,
+        "fear" : 0.099599999999999994,
+        "happiness" : 0.29110000000000003,
+        "neutral" : 0.041799999999999997,
+        "sadness" : 0.033099999999999997,
+        "surprise" : 0.43530000000000002
+      },
+      "stableDominant" : "happiness",
+      "t" : 4.5999999999999996,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.041300000000000003,
+        "contempt" : 0.041300000000000003,
+        "disgust" : 0.041300000000000003,
+        "fear" : 0.1429,
+        "happiness" : 0.041300000000000003,
+        "neutral" : 0.041300000000000003,
+        "sadness" : 0.041300000000000003,
+        "surprise" : 0.60919999999999996
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.035900000000000001,
+        "contempt" : 0.035900000000000001,
+        "disgust" : 0.035900000000000001,
+        "fear" : 0.1147,
+        "happiness" : 0.20369999999999999,
+        "neutral" : 0.041599999999999998,
+        "sadness" : 0.035900000000000001,
+        "surprise" : 0.49619999999999997
+      },
+      "stableDominant" : "happiness",
+      "t" : 4.6666999999999996,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.0349,
+        "contempt" : 0.0349,
+        "disgust" : 0.0349,
+        "fear" : 0.086099999999999996,
+        "happiness" : 0.3962,
+        "neutral" : 0.043900000000000002,
+        "sadness" : 0.0349,
+        "surprise" : 0.33410000000000001
+      },
+      "stableDominant" : "happiness",
+      "t" : 4.7332999999999998,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.025700000000000001,
+        "contempt" : 0.025700000000000001,
+        "disgust" : 0.025700000000000001,
+        "fear" : 0.13950000000000001,
+        "happiness" : 0.025700000000000001,
+        "neutral" : 0.025700000000000001,
+        "sadness" : 0.025700000000000001,
+        "surprise" : 0.70620000000000005
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.031699999999999999,
+        "contempt" : 0.031699999999999999,
+        "disgust" : 0.031699999999999999,
+        "fear" : 0.1048,
+        "happiness" : 0.26650000000000001,
+        "neutral" : 0.037499999999999999,
+        "sadness" : 0.031699999999999999,
+        "surprise" : 0.46429999999999999
+      },
+      "stableDominant" : "happiness",
+      "t" : 4.7999999999999998,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0293,
+        "contempt" : 0.0293,
+        "disgust" : 0.0293,
+        "fear" : 0.14410000000000001,
+        "happiness" : 0.0293,
+        "neutral" : 0.0293,
+        "sadness" : 0.0293,
+        "surprise" : 0.68000000000000005
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.0309,
+        "contempt" : 0.0309,
+        "disgust" : 0.0309,
+        "fear" : 0.1186,
+        "happiness" : 0.1835,
+        "neutral" : 0.034700000000000002,
+        "sadness" : 0.0309,
+        "surprise" : 0.53979999999999995
+      },
+      "stableDominant" : "happiness",
+      "t" : 4.8666999999999998,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.040500000000000001,
+        "contempt" : 0.040500000000000001,
+        "disgust" : 0.040500000000000001,
+        "fear" : 0.1719,
+        "happiness" : 0.040500000000000001,
+        "neutral" : 0.060699999999999997,
+        "sadness" : 0.040500000000000001,
+        "surprise" : 0.56469999999999998
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.034299999999999997,
+        "contempt" : 0.034299999999999997,
+        "disgust" : 0.034299999999999997,
+        "fear" : 0.13719999999999999,
+        "happiness" : 0.13350000000000001,
+        "neutral" : 0.043799999999999999,
+        "sadness" : 0.034299999999999997,
+        "surprise" : 0.54849999999999999
+      },
+      "stableDominant" : "surprise",
+      "t" : 4.9333,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0339,
+        "contempt" : 0.0339,
+        "disgust" : 0.0339,
+        "fear" : 0.1391,
+        "happiness" : 0.0339,
+        "neutral" : 0.0339,
+        "sadness" : 0.0339,
+        "surprise" : 0.65739999999999998
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.034099999999999998,
+        "contempt" : 0.034099999999999998,
+        "disgust" : 0.034099999999999998,
+        "fear" : 0.13789999999999999,
+        "happiness" : 0.098599999999999993,
+        "neutral" : 0.040300000000000002,
+        "sadness" : 0.034099999999999998,
+        "surprise" : 0.58660000000000001
+      },
+      "stableDominant" : "surprise",
+      "t" : 5,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.033799999999999997,
+        "contempt" : 0.033799999999999997,
+        "disgust" : 0.033799999999999997,
+        "fear" : 0.1012,
+        "happiness" : 0.32790000000000002,
+        "neutral" : 0.043099999999999999,
+        "sadness" : 0.033799999999999997,
+        "surprise" : 0.39290000000000003
+      },
+      "stableDominant" : "surprise",
+      "t" : 5.0667,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.037400000000000003,
+        "contempt" : 0.037400000000000003,
+        "disgust" : 0.037400000000000003,
+        "fear" : 0.1389,
+        "happiness" : 0.037400000000000003,
+        "neutral" : 0.062,
+        "sadness" : 0.037400000000000003,
+        "surprise" : 0.61219999999999997
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.035000000000000003,
+        "contempt" : 0.035000000000000003,
+        "disgust" : 0.035000000000000003,
+        "fear" : 0.1144,
+        "happiness" : 0.22620000000000001,
+        "neutral" : 0.049700000000000001,
+        "sadness" : 0.035000000000000003,
+        "surprise" : 0.46960000000000002
+      },
+      "stableDominant" : "surprise",
+      "t" : 5.1333000000000002,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.034299999999999997,
+        "contempt" : 0.034299999999999997,
+        "disgust" : 0.034299999999999997,
+        "fear" : 0.085900000000000004,
+        "happiness" : 0.4108,
+        "neutral" : 0.049099999999999998,
+        "sadness" : 0.034299999999999997,
+        "surprise" : 0.31680000000000003
+      },
+      "stableDominant" : "surprise",
+      "t" : 5.2000000000000002,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.0339,
+        "contempt" : 0.0339,
+        "disgust" : 0.0339,
+        "fear" : 0.067400000000000002,
+        "happiness" : 0.53080000000000005,
+        "neutral" : 0.048800000000000003,
+        "sadness" : 0.0339,
+        "surprise" : 0.2175
+      },
+      "stableDominant" : "surprise",
+      "t" : 5.2667000000000002,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.040300000000000002,
+        "contempt" : 0.040300000000000002,
+        "disgust" : 0.040300000000000002,
+        "fear" : 0.16059999999999999,
+        "happiness" : 0.040300000000000002,
+        "neutral" : 0.044699999999999997,
+        "sadness" : 0.040300000000000002,
+        "surprise" : 0.59299999999999997
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.0361,
+        "contempt" : 0.0361,
+        "disgust" : 0.0361,
+        "fear" : 0.10000000000000001,
+        "happiness" : 0.35920000000000002,
+        "neutral" : 0.047399999999999998,
+        "sadness" : 0.0361,
+        "surprise" : 0.34889999999999999
+      },
+      "stableDominant" : "surprise",
+      "t" : 5.3333000000000004,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.035400000000000001,
+        "contempt" : 0.035400000000000001,
+        "disgust" : 0.035400000000000001,
+        "fear" : 0.1331,
+        "happiness" : 0.035400000000000001,
+        "neutral" : 0.035700000000000003,
+        "sadness" : 0.035400000000000001,
+        "surprise" : 0.65400000000000003
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.035900000000000001,
+        "contempt" : 0.035900000000000001,
+        "disgust" : 0.035900000000000001,
+        "fear" : 0.1116,
+        "happiness" : 0.24590000000000001,
+        "neutral" : 0.043299999999999998,
+        "sadness" : 0.035900000000000001,
+        "surprise" : 0.45569999999999999
+      },
+      "stableDominant" : "surprise",
+      "t" : 5.4000000000000004,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.029100000000000001,
+        "contempt" : 0.029100000000000001,
+        "disgust" : 0.029100000000000001,
+        "fear" : 0.1399,
+        "happiness" : 0.029100000000000001,
+        "neutral" : 0.030700000000000002,
+        "sadness" : 0.029100000000000001,
+        "surprise" : 0.68400000000000005
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.033500000000000002,
+        "contempt" : 0.033500000000000002,
+        "disgust" : 0.033500000000000002,
+        "fear" : 0.1215,
+        "happiness" : 0.17000000000000001,
+        "neutral" : 0.038899999999999997,
+        "sadness" : 0.033500000000000002,
+        "surprise" : 0.53559999999999997
+      },
+      "stableDominant" : "surprise",
+      "t" : 5.4667000000000003,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.033300000000000003,
+        "contempt" : 0.033300000000000003,
+        "disgust" : 0.033300000000000003,
+        "fear" : 0.090499999999999997,
+        "happiness" : 0.37430000000000002,
+        "neutral" : 0.042099999999999999,
+        "sadness" : 0.033300000000000003,
+        "surprise" : 0.35970000000000002
+      },
+      "stableDominant" : "surprise",
+      "t" : 5.5332999999999997,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.0332,
+        "contempt" : 0.0332,
+        "disgust" : 0.0332,
+        "fear" : 0.070400000000000004,
+        "happiness" : 0.5071,
+        "neutral" : 0.044200000000000003,
+        "sadness" : 0.0332,
+        "surprise" : 0.24540000000000001
+      },
+      "stableDominant" : "surprise",
+      "t" : 5.5999999999999996,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.0332,
+        "contempt" : 0.0332,
+        "disgust" : 0.0332,
+        "fear" : 0.057299999999999997,
+        "happiness" : 0.59340000000000004,
+        "neutral" : 0.045600000000000002,
+        "sadness" : 0.0332,
+        "surprise" : 0.1711
+      },
+      "stableDominant" : "surprise",
+      "t" : 5.6666999999999996,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.0402,
+        "contempt" : 0.0402,
+        "disgust" : 0.0402,
+        "fear" : 0.1515,
+        "happiness" : 0.0402,
+        "neutral" : 0.047600000000000003,
+        "sadness" : 0.0402,
+        "surprise" : 0.60009999999999997
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.0356,
+        "contempt" : 0.0356,
+        "disgust" : 0.0356,
+        "fear" : 0.090300000000000005,
+        "happiness" : 0.39979999999999999,
+        "neutral" : 0.046300000000000001,
+        "sadness" : 0.0356,
+        "surprise" : 0.32119999999999999
+      },
+      "stableDominant" : "happiness",
+      "t" : 5.7332999999999998,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.034700000000000002,
+        "contempt" : 0.034700000000000002,
+        "disgust" : 0.034700000000000002,
+        "fear" : 0.14940000000000001,
+        "happiness" : 0.034700000000000002,
+        "neutral" : 0.034700000000000002,
+        "sadness" : 0.034700000000000002,
+        "surprise" : 0.64219999999999999
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.035299999999999998,
+        "contempt" : 0.035299999999999998,
+        "disgust" : 0.035299999999999998,
+        "fear" : 0.111,
+        "happiness" : 0.27200000000000002,
+        "neutral" : 0.042200000000000001,
+        "sadness" : 0.035299999999999998,
+        "surprise" : 0.4335
+      },
+      "stableDominant" : "happiness",
+      "t" : 5.7999999999999998,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.038100000000000002,
+        "contempt" : 0.038100000000000002,
+        "disgust" : 0.038100000000000002,
+        "fear" : 0.13400000000000001,
+        "happiness" : 0.038100000000000002,
+        "neutral" : 0.040500000000000001,
+        "sadness" : 0.038100000000000002,
+        "surprise" : 0.63519999999999999
+      },
+      "rawDominant" : "surprise",
+      "smoothed" : {
+        "anger" : 0.036299999999999999,
+        "contempt" : 0.036299999999999999,
+        "disgust" : 0.036299999999999999,
+        "fear" : 0.11899999999999999,
+        "happiness" : 0.19009999999999999,
+        "neutral" : 0.041599999999999998,
+        "sadness" : 0.036299999999999999,
+        "surprise" : 0.50409999999999999
+      },
+      "stableDominant" : "happiness",
+      "t" : 5.8666999999999998,
+      "truth" : "surprise"
+    },
+    {
+      "raw" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "rawDominant" : "happiness",
+      "smoothed" : {
+        "anger" : 0.035099999999999999,
+        "contempt" : 0.035099999999999999,
+        "disgust" : 0.035099999999999999,
+        "fear" : 0.088900000000000007,
+        "happiness" : 0.38740000000000002,
+        "neutral" : 0.043900000000000002,
+        "sadness" : 0.035099999999999999,
+        "surprise" : 0.3392
+      },
+      "stableDominant" : "happiness",
+      "t" : 5.9333,
+      "truth" : "surprise"
+    }
+  ],
+  "intensitySweep" : [
+    {
+      "emotion" : "happiness",
+      "energy" : 0,
+      "evidence" : 0,
+      "probability" : 0.0103,
+      "scale" : 0
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.025499999999999998,
+      "evidence" : 0.0092999999999999992,
+      "probability" : 0.012999999999999999,
+      "scale" : 0.050000000000000003
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.050900000000000001,
+      "evidence" : 0.037100000000000001,
+      "probability" : 0.0177,
+      "scale" : 0.10000000000000001
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.076399999999999996,
+      "evidence" : 0.083400000000000002,
+      "probability" : 0.025999999999999999,
+      "scale" : 0.14999999999999999
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.1018,
+      "evidence" : 0.13900000000000001,
+      "probability" : 0.0395,
+      "scale" : 0.20000000000000001
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.1273,
+      "evidence" : 0.17380000000000001,
+      "probability" : 0.054199999999999998,
+      "scale" : 0.25
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.1527,
+      "evidence" : 0.20849999999999999,
+      "probability" : 0.073700000000000002,
+      "scale" : 0.29999999999999999
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.1782,
+      "evidence" : 0.24329999999999999,
+      "probability" : 0.098799999999999999,
+      "scale" : 0.34999999999999998
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.2036,
+      "evidence" : 0.27800000000000002,
+      "probability" : 0.13039999999999999,
+      "scale" : 0.40000000000000002
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.2291,
+      "evidence" : 0.31280000000000002,
+      "probability" : 0.1691,
+      "scale" : 0.45000000000000001
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.2545,
+      "evidence" : 0.34749999999999998,
+      "probability" : 0.21490000000000001,
+      "scale" : 0.5
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.28000000000000003,
+      "evidence" : 0.38229999999999997,
+      "probability" : 0.26719999999999999,
+      "scale" : 0.55000000000000004
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.30549999999999999,
+      "evidence" : 0.41699999999999998,
+      "probability" : 0.32469999999999999,
+      "scale" : 0.59999999999999998
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.33090000000000003,
+      "evidence" : 0.45179999999999998,
+      "probability" : 0.38550000000000001,
+      "scale" : 0.65000000000000002
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.35639999999999999,
+      "evidence" : 0.48649999999999999,
+      "probability" : 0.4476,
+      "scale" : 0.69999999999999996
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.38179999999999997,
+      "evidence" : 0.52129999999999999,
+      "probability" : 0.50860000000000005,
+      "scale" : 0.75
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.4073,
+      "evidence" : 0.55600000000000005,
+      "probability" : 0.56699999999999995,
+      "scale" : 0.80000000000000004
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.43269999999999997,
+      "evidence" : 0.59079999999999999,
+      "probability" : 0.62119999999999997,
+      "scale" : 0.84999999999999998
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.4582,
+      "evidence" : 0.62549999999999994,
+      "probability" : 0.67049999999999998,
+      "scale" : 0.90000000000000002
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.48359999999999997,
+      "evidence" : 0.6603,
+      "probability" : 0.7147,
+      "scale" : 0.94999999999999996
+    },
+    {
+      "emotion" : "happiness",
+      "energy" : 0.5091,
+      "evidence" : 0.69499999999999995,
+      "probability" : 0.75370000000000004,
+      "scale" : 1
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0,
+      "evidence" : 0,
+      "probability" : 0.0103,
+      "scale" : 0
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.020400000000000001,
+      "evidence" : 0.0070000000000000001,
+      "probability" : 0.0124,
+      "scale" : 0.050000000000000003
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.0407,
+      "evidence" : 0.027900000000000001,
+      "probability" : 0.015800000000000002,
+      "scale" : 0.10000000000000001
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.061100000000000002,
+      "evidence" : 0.062799999999999995,
+      "probability" : 0.021299999999999999,
+      "scale" : 0.14999999999999999
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.081500000000000003,
+      "evidence" : 0.092999999999999999,
+      "probability" : 0.0281,
+      "scale" : 0.20000000000000001
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.1018,
+      "evidence" : 0.1163,
+      "probability" : 0.035799999999999998,
+      "scale" : 0.25
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.1222,
+      "evidence" : 0.13950000000000001,
+      "probability" : 0.0453,
+      "scale" : 0.29999999999999999
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.14249999999999999,
+      "evidence" : 0.1628,
+      "probability" : 0.057099999999999998,
+      "scale" : 0.34999999999999998
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.16289999999999999,
+      "evidence" : 0.186,
+      "probability" : 0.071400000000000005,
+      "scale" : 0.40000000000000002
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.18329999999999999,
+      "evidence" : 0.20930000000000001,
+      "probability" : 0.088499999999999995,
+      "scale" : 0.45000000000000001
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.2036,
+      "evidence" : 0.23250000000000001,
+      "probability" : 0.1089,
+      "scale" : 0.5
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.224,
+      "evidence" : 0.25580000000000003,
+      "probability" : 0.13270000000000001,
+      "scale" : 0.55000000000000004
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.24440000000000001,
+      "evidence" : 0.27900000000000003,
+      "probability" : 0.15989999999999999,
+      "scale" : 0.59999999999999998
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.26469999999999999,
+      "evidence" : 0.30230000000000001,
+      "probability" : 0.19059999999999999,
+      "scale" : 0.65000000000000002
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.28510000000000002,
+      "evidence" : 0.32550000000000001,
+      "probability" : 0.22450000000000001,
+      "scale" : 0.69999999999999996
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.30549999999999999,
+      "evidence" : 0.3488,
+      "probability" : 0.26129999999999998,
+      "scale" : 0.75
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.32579999999999998,
+      "evidence" : 0.372,
+      "probability" : 0.30030000000000001,
+      "scale" : 0.80000000000000004
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.34620000000000001,
+      "evidence" : 0.39529999999999998,
+      "probability" : 0.34079999999999999,
+      "scale" : 0.84999999999999998
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.36649999999999999,
+      "evidence" : 0.41849999999999998,
+      "probability" : 0.38229999999999997,
+      "scale" : 0.90000000000000002
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.38690000000000002,
+      "evidence" : 0.44180000000000003,
+      "probability" : 0.4239,
+      "scale" : 0.94999999999999996
+    },
+    {
+      "emotion" : "sadness",
+      "energy" : 0.4073,
+      "evidence" : 0.46500000000000002,
+      "probability" : 0.46500000000000002,
+      "scale" : 1
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0,
+      "evidence" : 0,
+      "probability" : 0.0103,
+      "scale" : 0
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.025700000000000001,
+      "evidence" : 0.0327,
+      "probability" : 0.0144,
+      "scale" : 0.050000000000000003
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.051499999999999997,
+      "evidence" : 0.065500000000000003,
+      "probability" : 0.0201,
+      "scale" : 0.10000000000000001
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.077200000000000005,
+      "evidence" : 0.098199999999999996,
+      "probability" : 0.027799999999999998,
+      "scale" : 0.14999999999999999
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.10290000000000001,
+      "evidence" : 0.13100000000000001,
+      "probability" : 0.038199999999999998,
+      "scale" : 0.20000000000000001
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.12859999999999999,
+      "evidence" : 0.1638,
+      "probability" : 0.051900000000000002,
+      "scale" : 0.25
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.15440000000000001,
+      "evidence" : 0.19650000000000001,
+      "probability" : 0.069699999999999998,
+      "scale" : 0.29999999999999999
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.18010000000000001,
+      "evidence" : 0.2293,
+      "probability" : 0.092299999999999993,
+      "scale" : 0.34999999999999998
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.20580000000000001,
+      "evidence" : 0.26200000000000001,
+      "probability" : 0.1202,
+      "scale" : 0.40000000000000002
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.23150000000000001,
+      "evidence" : 0.29480000000000001,
+      "probability" : 0.15379999999999999,
+      "scale" : 0.45000000000000001
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.25729999999999997,
+      "evidence" : 0.32750000000000001,
+      "probability" : 0.1928,
+      "scale" : 0.5
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.28299999999999997,
+      "evidence" : 0.36030000000000001,
+      "probability" : 0.23649999999999999,
+      "scale" : 0.55000000000000004
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.30869999999999997,
+      "evidence" : 0.39300000000000002,
+      "probability" : 0.28389999999999999,
+      "scale" : 0.59999999999999998
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.33450000000000002,
+      "evidence" : 0.42580000000000001,
+      "probability" : 0.33339999999999997,
+      "scale" : 0.65000000000000002
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.36020000000000002,
+      "evidence" : 0.45850000000000002,
+      "probability" : 0.3836,
+      "scale" : 0.69999999999999996
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.38590000000000002,
+      "evidence" : 0.49130000000000001,
+      "probability" : 0.433,
+      "scale" : 0.75
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.41160000000000002,
+      "evidence" : 0.52400000000000002,
+      "probability" : 0.48039999999999999,
+      "scale" : 0.80000000000000004
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.43740000000000001,
+      "evidence" : 0.55679999999999996,
+      "probability" : 0.5252,
+      "scale" : 0.84999999999999998
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.46310000000000001,
+      "evidence" : 0.58950000000000002,
+      "probability" : 0.56689999999999996,
+      "scale" : 0.90000000000000002
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.48880000000000001,
+      "evidence" : 0.62229999999999996,
+      "probability" : 0.60519999999999996,
+      "scale" : 0.94999999999999996
+    },
+    {
+      "emotion" : "surprise",
+      "energy" : 0.51449999999999996,
+      "evidence" : 0.65500000000000003,
+      "probability" : 0.64019999999999999,
+      "scale" : 1
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0,
+      "evidence" : 0,
+      "probability" : 0.0103,
+      "scale" : 0
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.0235,
+      "evidence" : 0.0080000000000000002,
+      "probability" : 0.012699999999999999,
+      "scale" : 0.050000000000000003
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.046899999999999997,
+      "evidence" : 0.032099999999999997,
+      "probability" : 0.016799999999999999,
+      "scale" : 0.10000000000000001
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.070400000000000004,
+      "evidence" : 0.0722,
+      "probability" : 0.023699999999999999,
+      "scale" : 0.14999999999999999
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.093799999999999994,
+      "evidence" : 0.107,
+      "probability" : 0.032399999999999998,
+      "scale" : 0.20000000000000001
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.1173,
+      "evidence" : 0.13370000000000001,
+      "probability" : 0.0424,
+      "scale" : 0.25
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.14069999999999999,
+      "evidence" : 0.1605,
+      "probability" : 0.055100000000000003,
+      "scale" : 0.29999999999999999
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.16420000000000001,
+      "evidence" : 0.18729999999999999,
+      "probability" : 0.070900000000000005,
+      "scale" : 0.34999999999999998
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.18759999999999999,
+      "evidence" : 0.214,
+      "probability" : 0.090200000000000002,
+      "scale" : 0.40000000000000002
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.21110000000000001,
+      "evidence" : 0.24079999999999999,
+      "probability" : 0.1133,
+      "scale" : 0.45000000000000001
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.23449999999999999,
+      "evidence" : 0.26750000000000002,
+      "probability" : 0.14030000000000001,
+      "scale" : 0.5
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.25800000000000001,
+      "evidence" : 0.29430000000000001,
+      "probability" : 0.17100000000000001,
+      "scale" : 0.55000000000000004
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.28149999999999997,
+      "evidence" : 0.32100000000000001,
+      "probability" : 0.2051,
+      "scale" : 0.59999999999999998
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.3049,
+      "evidence" : 0.3478,
+      "probability" : 0.24199999999999999,
+      "scale" : 0.65000000000000002
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.32840000000000003,
+      "evidence" : 0.3745,
+      "probability" : 0.28089999999999998,
+      "scale" : 0.69999999999999996
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.3518,
+      "evidence" : 0.40129999999999999,
+      "probability" : 0.32079999999999997,
+      "scale" : 0.75
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.37530000000000002,
+      "evidence" : 0.42799999999999999,
+      "probability" : 0.36099999999999999,
+      "scale" : 0.80000000000000004
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.3987,
+      "evidence" : 0.45479999999999998,
+      "probability" : 0.40060000000000001,
+      "scale" : 0.84999999999999998
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.42220000000000002,
+      "evidence" : 0.48149999999999998,
+      "probability" : 0.439,
+      "scale" : 0.90000000000000002
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.4456,
+      "evidence" : 0.50829999999999997,
+      "probability" : 0.47589999999999999,
+      "scale" : 0.94999999999999996
+    },
+    {
+      "emotion" : "fear",
+      "energy" : 0.46910000000000002,
+      "evidence" : 0.53500000000000003,
+      "probability" : 0.51080000000000003,
+      "scale" : 1
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0,
+      "evidence" : 0,
+      "probability" : 0.0103,
+      "scale" : 0
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.023400000000000001,
+      "evidence" : 0.0064999999999999997,
+      "probability" : 0.0126,
+      "scale" : 0.050000000000000003
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.046699999999999998,
+      "evidence" : 0.025899999999999999,
+      "probability" : 0.016299999999999999,
+      "scale" : 0.10000000000000001
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.070099999999999996,
+      "evidence" : 0.058299999999999998,
+      "probability" : 0.0223,
+      "scale" : 0.14999999999999999
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.0935,
+      "evidence" : 0.1036,
+      "probability" : 0.032000000000000001,
+      "scale" : 0.20000000000000001
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.1168,
+      "evidence" : 0.13869999999999999,
+      "probability" : 0.0436,
+      "scale" : 0.25
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.14019999999999999,
+      "evidence" : 0.16650000000000001,
+      "probability" : 0.057099999999999998,
+      "scale" : 0.29999999999999999
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.16350000000000001,
+      "evidence" : 0.19420000000000001,
+      "probability" : 0.074099999999999999,
+      "scale" : 0.34999999999999998
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.18690000000000001,
+      "evidence" : 0.222,
+      "probability" : 0.095200000000000007,
+      "scale" : 0.40000000000000002
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.21029999999999999,
+      "evidence" : 0.24979999999999999,
+      "probability" : 0.1208,
+      "scale" : 0.45000000000000001
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.2336,
+      "evidence" : 0.27750000000000002,
+      "probability" : 0.1512,
+      "scale" : 0.5
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.25700000000000001,
+      "evidence" : 0.30530000000000002,
+      "probability" : 0.1865,
+      "scale" : 0.55000000000000004
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.28039999999999998,
+      "evidence" : 0.33300000000000002,
+      "probability" : 0.22639999999999999,
+      "scale" : 0.59999999999999998
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.30370000000000003,
+      "evidence" : 0.36080000000000001,
+      "probability" : 0.27029999999999998,
+      "scale" : 0.65000000000000002
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.3271,
+      "evidence" : 0.38850000000000001,
+      "probability" : 0.31719999999999998,
+      "scale" : 0.69999999999999996
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.35049999999999998,
+      "evidence" : 0.41620000000000001,
+      "probability" : 0.36620000000000003,
+      "scale" : 0.75
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.37380000000000002,
+      "evidence" : 0.44400000000000001,
+      "probability" : 0.41589999999999999,
+      "scale" : 0.80000000000000004
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.3972,
+      "evidence" : 0.4718,
+      "probability" : 0.4652,
+      "scale" : 0.84999999999999998
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.42049999999999998,
+      "evidence" : 0.4995,
+      "probability" : 0.51300000000000001,
+      "scale" : 0.90000000000000002
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.44390000000000002,
+      "evidence" : 0.5272,
+      "probability" : 0.55869999999999997,
+      "scale" : 0.94999999999999996
+    },
+    {
+      "emotion" : "anger",
+      "energy" : 0.46729999999999999,
+      "evidence" : 0.55500000000000005,
+      "probability" : 0.60170000000000001,
+      "scale" : 1
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0,
+      "evidence" : 0,
+      "probability" : 0.0103,
+      "scale" : 0
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.022800000000000001,
+      "evidence" : 0.0061000000000000004,
+      "probability" : 0.0126,
+      "scale" : 0.050000000000000003
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.045600000000000002,
+      "evidence" : 0.024500000000000001,
+      "probability" : 0.0161,
+      "scale" : 0.10000000000000001
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.068500000000000005,
+      "evidence" : 0.055100000000000003,
+      "probability" : 0.021700000000000001,
+      "scale" : 0.14999999999999999
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.091300000000000006,
+      "evidence" : 0.084000000000000005,
+      "probability" : 0.028899999999999999,
+      "scale" : 0.20000000000000001
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.11409999999999999,
+      "evidence" : 0.105,
+      "probability" : 0.036900000000000002,
+      "scale" : 0.25
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.13689999999999999,
+      "evidence" : 0.126,
+      "probability" : 0.046800000000000001,
+      "scale" : 0.29999999999999999
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.15970000000000001,
+      "evidence" : 0.14699999999999999,
+      "probability" : 0.058999999999999997,
+      "scale" : 0.34999999999999998
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.1825,
+      "evidence" : 0.16800000000000001,
+      "probability" : 0.073599999999999999,
+      "scale" : 0.40000000000000002
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.2054,
+      "evidence" : 0.189,
+      "probability" : 0.090999999999999998,
+      "scale" : 0.45000000000000001
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.22819999999999999,
+      "evidence" : 0.20999999999999999,
+      "probability" : 0.1113,
+      "scale" : 0.5
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.251,
+      "evidence" : 0.23100000000000001,
+      "probability" : 0.1346,
+      "scale" : 0.55000000000000004
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.27379999999999999,
+      "evidence" : 0.252,
+      "probability" : 0.16070000000000001,
+      "scale" : 0.59999999999999998
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.29659999999999997,
+      "evidence" : 0.27300000000000002,
+      "probability" : 0.1893,
+      "scale" : 0.65000000000000002
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.31950000000000001,
+      "evidence" : 0.29399999999999998,
+      "probability" : 0.22020000000000001,
+      "scale" : 0.69999999999999996
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.34229999999999999,
+      "evidence" : 0.315,
+      "probability" : 0.25269999999999998,
+      "scale" : 0.75
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.36509999999999998,
+      "evidence" : 0.33600000000000002,
+      "probability" : 0.28639999999999999,
+      "scale" : 0.80000000000000004
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.38790000000000002,
+      "evidence" : 0.35699999999999998,
+      "probability" : 0.3206,
+      "scale" : 0.84999999999999998
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.41070000000000001,
+      "evidence" : 0.378,
+      "probability" : 0.35489999999999999,
+      "scale" : 0.90000000000000002
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.4335,
+      "evidence" : 0.39900000000000002,
+      "probability" : 0.38879999999999998,
+      "scale" : 0.94999999999999996
+    },
+    {
+      "emotion" : "disgust",
+      "energy" : 0.45639999999999997,
+      "evidence" : 0.41999999999999998,
+      "probability" : 0.4219,
+      "scale" : 1
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0,
+      "evidence" : 0,
+      "probability" : 0.0103,
+      "scale" : 0
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.022599999999999999,
+      "evidence" : 0.0070000000000000001,
+      "probability" : 0.0126,
+      "scale" : 0.050000000000000003
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.0453,
+      "evidence" : 0.028000000000000001,
+      "probability" : 0.016299999999999999,
+      "scale" : 0.10000000000000001
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.067900000000000002,
+      "evidence" : 0.063,
+      "probability" : 0.0224,
+      "scale" : 0.14999999999999999
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.090499999999999997,
+      "evidence" : 0.112,
+      "probability" : 0.032500000000000001,
+      "scale" : 0.20000000000000001
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.1132,
+      "evidence" : 0.14999999999999999,
+      "probability" : 0.044699999999999997,
+      "scale" : 0.25
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.1358,
+      "evidence" : 0.17999999999999999,
+      "probability" : 0.058799999999999998,
+      "scale" : 0.29999999999999999
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.1585,
+      "evidence" : 0.20999999999999999,
+      "probability" : 0.076799999999999993,
+      "scale" : 0.34999999999999998
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.18110000000000001,
+      "evidence" : 0.23999999999999999,
+      "probability" : 0.099099999999999994,
+      "scale" : 0.40000000000000002
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.20369999999999999,
+      "evidence" : 0.27000000000000002,
+      "probability" : 0.12640000000000001,
+      "scale" : 0.45000000000000001
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.22639999999999999,
+      "evidence" : 0.29999999999999999,
+      "probability" : 0.15909999999999999,
+      "scale" : 0.5
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.249,
+      "evidence" : 0.33000000000000002,
+      "probability" : 0.19719999999999999,
+      "scale" : 0.55000000000000004
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.27160000000000001,
+      "evidence" : 0.35999999999999999,
+      "probability" : 0.24030000000000001,
+      "scale" : 0.59999999999999998
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.29430000000000001,
+      "evidence" : 0.39000000000000001,
+      "probability" : 0.28799999999999998,
+      "scale" : 0.65000000000000002
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.31690000000000002,
+      "evidence" : 0.41999999999999998,
+      "probability" : 0.33889999999999998,
+      "scale" : 0.69999999999999996
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.33950000000000002,
+      "evidence" : 0.45000000000000001,
+      "probability" : 0.39200000000000002,
+      "scale" : 0.75
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.36220000000000002,
+      "evidence" : 0.47999999999999998,
+      "probability" : 0.4456,
+      "scale" : 0.80000000000000004
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.38479999999999998,
+      "evidence" : 0.51000000000000001,
+      "probability" : 0.49840000000000001,
+      "scale" : 0.84999999999999998
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.40749999999999997,
+      "evidence" : 0.54000000000000004,
+      "probability" : 0.54930000000000001,
+      "scale" : 0.90000000000000002
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.43009999999999998,
+      "evidence" : 0.56999999999999995,
+      "probability" : 0.59740000000000004,
+      "scale" : 0.94999999999999996
+    },
+    {
+      "emotion" : "contempt",
+      "energy" : 0.45269999999999999,
+      "evidence" : 0.59999999999999998,
+      "probability" : 0.64190000000000003,
+      "scale" : 1
+    }
+  ],
+  "note" : "Synthetic Action Unit input through the real EmotionClassifier and TemporalSmoother; no face, no camera.",
+  "prototypes" : [
+    {
+      "aus" : {
+
+      },
+      "distribution" : {
+        "anger" : 0.0103,
+        "contempt" : 0.0103,
+        "disgust" : 0.0103,
+        "fear" : 0.0103,
+        "happiness" : 0.0103,
+        "neutral" : 0.92779999999999996,
+        "sadness" : 0.0103,
+        "surprise" : 0.0103
+      },
+      "prototype" : "neutral"
+    },
+    {
+      "aus" : {
+        "au6" : 0.5,
+        "au12" : 0.80000000000000004
+      },
+      "distribution" : {
+        "anger" : 0.033000000000000002,
+        "contempt" : 0.033000000000000002,
+        "disgust" : 0.033000000000000002,
+        "fear" : 0.033000000000000002,
+        "happiness" : 0.75370000000000004,
+        "neutral" : 0.048099999999999997,
+        "sadness" : 0.033000000000000002,
+        "surprise" : 0.033000000000000002
+      },
+      "prototype" : "happiness"
+    },
+    {
+      "aus" : {
+        "au1" : 0.40000000000000002,
+        "au4" : 0.29999999999999999,
+        "au15" : 0.59999999999999998
+      },
+      "distribution" : {
+        "anger" : 0.0574,
+        "contempt" : 0.0574,
+        "disgust" : 0.0574,
+        "fear" : 0.0574,
+        "happiness" : 0.0574,
+        "neutral" : 0.19070000000000001,
+        "sadness" : 0.46500000000000002,
+        "surprise" : 0.0574
+      },
+      "prototype" : "sadness"
+    },
+    {
+      "aus" : {
+        "au1" : 0.59999999999999998,
+        "au2" : 0.69999999999999996,
+        "au5" : 0.69999999999999996,
+        "au26" : 0.59999999999999998
+      },
+      "distribution" : {
+        "anger" : 0.033599999999999998,
+        "contempt" : 0.033599999999999998,
+        "disgust" : 0.033599999999999998,
+        "fear" : 0.14499999999999999,
+        "happiness" : 0.033599999999999998,
+        "neutral" : 0.046800000000000001,
+        "sadness" : 0.033599999999999998,
+        "surprise" : 0.64019999999999999
+      },
+      "prototype" : "surprise"
+    },
+    {
+      "aus" : {
+        "au1" : 0.5,
+        "au2" : 0.5,
+        "au4" : 0.5,
+        "au5" : 0.59999999999999998,
+        "au20" : 0.59999999999999998,
+        "au26" : 0.29999999999999999
+      },
+      "distribution" : {
+        "anger" : 0.057599999999999998,
+        "contempt" : 0.045999999999999999,
+        "disgust" : 0.045999999999999999,
+        "fear" : 0.51080000000000003,
+        "happiness" : 0.045999999999999999,
+        "neutral" : 0.092600000000000002,
+        "sadness" : 0.045999999999999999,
+        "surprise" : 0.155
+      },
+      "prototype" : "fear"
+    },
+    {
+      "aus" : {
+        "au4" : 0.69999999999999996,
+        "au7" : 0.5,
+        "au23" : 0.59999999999999998
+      },
+      "distribution" : {
+        "anger" : 0.60170000000000001,
+        "contempt" : 0.049500000000000002,
+        "disgust" : 0.049500000000000002,
+        "fear" : 0.049500000000000002,
+        "happiness" : 0.049500000000000002,
+        "neutral" : 0.1012,
+        "sadness" : 0.049500000000000002,
+        "surprise" : 0.049500000000000002
+      },
+      "prototype" : "anger"
+    },
+    {
+      "aus" : {
+        "au7" : 0.20000000000000001,
+        "au9" : 0.69999999999999996,
+        "au15" : 0.29999999999999999
+      },
+      "distribution" : {
+        "anger" : 0.063700000000000007,
+        "contempt" : 0.063700000000000007,
+        "disgust" : 0.4219,
+        "fear" : 0.063700000000000007,
+        "happiness" : 0.063700000000000007,
+        "neutral" : 0.14230000000000001,
+        "sadness" : 0.11700000000000001,
+        "surprise" : 0.063700000000000007
+      },
+      "prototype" : "disgust"
+    },
+    {
+      "aus" : {
+        "au23" : 0.20000000000000001,
+        "auUnilateral" : 0.69999999999999996
+      },
+      "distribution" : {
+        "anger" : 0.043099999999999999,
+        "contempt" : 0.64190000000000003,
+        "disgust" : 0.043099999999999999,
+        "fear" : 0.043099999999999999,
+        "happiness" : 0.043099999999999999,
+        "neutral" : 0.099199999999999997,
+        "sadness" : 0.043099999999999999,
+        "surprise" : 0.043099999999999999
+      },
+      "prototype" : "contempt"
+    }
+  ]
+}

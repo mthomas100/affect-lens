@@ -1,0 +1,34 @@
+# XcodeGen spec for the visionOS app: `xcodegen generate`, then open AffectLens.xcodeproj.
+# The app compiles the engine (Sources/AffectEngine), the views (Sources/AffectUI) and the
+# shell (App) as one module. Signing: export DEVELOPMENT_TEAM=<your team id> before generating
+# to run on a device; the simulator needs none.
+name: AffectLens
+options:
+  bundleIdPrefix: com.example
+  deploymentTarget:
+    visionOS: "26.0"
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    SWIFT_DEFAULT_ACTOR_ISOLATION: MainActor
+    DEVELOPMENT_TEAM: ${DEVELOPMENT_TEAM}
+targets:
+  AffectLens:
+    type: application
+    platform: visionOS
+    sources:
+      - path: App
+        excludes: ["Info.plist", "*.entitlements"]
+      - path: Sources/AffectEngine
+      - path: Sources/AffectUI
+      # Optional: drop a FERPlus.mlpackage here (tools/convert_ferplus.py) to enable the
+      # appearance expert; without it the engine runs geometry-only.
+      - path: Models
+        optional: true
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.example.affectlens
+        INFOPLIST_FILE: App/Info.plist
+        CODE_SIGN_ENTITLEMENTS: App/AffectLens.entitlements
+        CODE_SIGN_STYLE: Automatic
+        GENERATE_INFOPLIST_FILE: NO
